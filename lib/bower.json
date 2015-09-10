@@ -1,0 +1,20 @@
+{
+  "name": "sample-project",
+  "version": "0.0.0",
+  "authors": [
+    "Sarah Story <sarah.f.lavendol@vanderbilt.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.20",
+    "angular": "~1.4.4",
+    "angular-route": "~1.4.4"
+  }
+}
