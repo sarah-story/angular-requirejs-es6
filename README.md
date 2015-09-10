@@ -33,7 +33,7 @@ grunt babel
 This will create a new file called built.js.
 
 ```
-cd ..
+cd .. # To the project root
 r.js -o build.js
 ```
 
